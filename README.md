@@ -1,5 +1,3 @@
-# Business-Analysis-Project
-A comprehensive repository for business analysts containing case studies, SQL queries, data visualizations, and documentation templates to enhance data-driven decision-making.
 # Business Analysis Project
 
 ## 📌 Overview
